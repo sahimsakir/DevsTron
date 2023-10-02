@@ -219,7 +219,7 @@
 	<!-- service one area ends -->
 
 	<!-- landing page videos -->
-<div class="landing-video-area mt-5">
+	<div class="landing-video-area mt-5">
 		<div class="animate-bubble style-1">
 			<div class="bubble a-one"></div>
 			<div class="bubble a-three"></div>
@@ -343,7 +343,7 @@
 	</div>
 	<!-- testimonial area ends -->
 
-	<!-- portfolio slide area start -->
+	<!-- client slide area start -->
 	<div class="portfolio-slide-area">
 		<div class="container">
 			<div class="protfolio-heder text-center section-heading wow">
@@ -410,5 +410,5 @@
 			</div>
 		</div>
 	</div>
-	<!-- portfolio slide area start -->
+	<!-- client slide area start -->
 @endsection
