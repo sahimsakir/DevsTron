@@ -76,24 +76,24 @@
 									<a href="/about">About Us</a>
 								</li>
 								<li>
-									<a href="team.html">Teams</a>
+									<a href="/team">Teams</a>
 								</li>
 								<li>
-									<a href="career.html">Career</a>
+									<a href="/career">Career</a>
 								</li>
 							</ul>
 						</li>
 						<li>
-							<a href="services.html">Services</a>
+							<a href="/service">Services</a>
 						</li>
 						<li>
-							<a href="portfolio.html">Portfolio</a>
+							<a href="/portfolio">Portfolio</a>
 						</li>
 						<li>
-							<a href="blog.html">Blogs</a>
+							<a href="/blog">Blogs</a>
 						</li>
 						<li>
-							<a href="contact.html">Contact Us</a>
+							<a href="/contact">Contact Us</a>
 						</li>
 						<li>
 							<a href="https://helpdesk.devstron.com"><i class="fa-solid fa-headset"></i> Helpdesk</a>
@@ -127,24 +127,24 @@
 												<a href="/about">About Us</a>
 											</li>
 											<li>
-												<a href="team.html">Teams</a>
+												<a href="/team">Teams</a>
 											</li>
 											<li>
-												<a href="career.html">Career</a>
+												<a href="/career">Career</a>
 											</li>
 										</ul>
 									</li>
 									<li>
-										<a href="services.html">Services</a>
+										<a href="/service">Services</a>
 									</li>
 									<li>
-										<a href="portfolio.html">Portfolio</a>
+										<a href="/portfolio">Portfolio</a>
 									</li>
 									<li>
-										<a href="blog.html">Blogs</a>
+										<a href="/blog">Blogs</a>
 									</li>
 									<li>
-										<a href="contact.html">Contact Us</a>
+										<a href="/contact">Contact Us</a>
 									</li>
 								</ul>
 							</div>
@@ -248,10 +248,10 @@
 									<a href="/about">About</a>
 								</li>
 								<li>
-									<a href="career.html">Career</a>
+									<a href="/career">Career</a>
 								</li>
 								<li>
-									<a href="blog.html">Blog</a>
+									<a href="/blog">Blog</a>
 								</li>
 							</ul>
 						</div>

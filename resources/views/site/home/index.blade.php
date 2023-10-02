@@ -27,7 +27,7 @@
 						<p>
 							To implement digital projects and achieve long-term financial success.
 						</p>
-						<a href="about.html" class="custom-btn">
+						<a href="/about" class="custom-btn">
 							<span>Read More</span>
 						</a>
 					</div>

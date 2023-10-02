@@ -10949,8 +10949,8 @@ select.list-dt:focus {
 
 .drag-area {
     border: 2px dashed #000;
-    height: 350px;
-    width: 400px;
+    height: 55mm;
+    width: 45mm;
     border-radius: 5px;
     display: flex;
     align-items: center;
@@ -10963,18 +10963,19 @@ select.list-dt:focus {
 }
 
 .drag-area .icon {
-    font-size: 80px;
+    font-size: 20px;
     color: #000;
 }
 
 .drag-area header {
-    font-size: 24px;
+    padding: 0px 5px;
+    font-size: 14px;
     font-weight: 500;
     color: #000;
 }
 
 .drag-area span {
-    font-size: 20px;
+    font-size: 12px;
     font-weight: 500;
     color: #000;
     margin: 10px 0 15px 0;
@@ -10982,7 +10983,7 @@ select.list-dt:focus {
 
 .drag-area button {
     padding: 10px 25px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     border: none;
     outline: none;
